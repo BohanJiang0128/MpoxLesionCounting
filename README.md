@@ -1,4 +1,3 @@
 # MpoxLesionCounting
-To Do: Upload Evaluation Code\n
-       Upload Training Code
-       Create Instructions
+## To Do:
+#### Upload Evaluation Code<br/>Upload Training Code<br/>Create Instructions
